@@ -40,3 +40,6 @@ The project represents an alpha version of a spaceship.
 This readme has been changed again.
 
 This is a conflicting line: First version
+This readme has been changed again.this is changed.
+
+This is a conflicting line. Version 2.
